@@ -1,5 +1,4 @@
 public class Cidade {
-    
     String temperatura;
     String maximo;
     String minima;
